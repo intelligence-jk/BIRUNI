@@ -1,4 +1,6 @@
-# heights-distances-sim
+# ICARUS: Inclination, Clinometer, Angles, Rise, Upward Sight
+
+Formerly `heights-distances-sim`.
 
 An exact solver for heights and distances problems with angles of elevation of 30, 45 and 60 degrees, plus a small SVG diagram.
 
