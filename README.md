@@ -1,4 +1,4 @@
-# ICARUS: Inclination, Clinometer, Angles, Rise, Upward Sight
+# BIRUNI: named after al-Biruni, who measured the Earth's radius from a mountain height and the dip of the horizon
 
 Formerly `heights-distances-sim`.
 
